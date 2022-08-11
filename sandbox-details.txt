@@ -1,0 +1,9 @@
+Local IP: 31.208.167.93
+2Yc!qF2v*UmANW%k
+
+ID: 652272
+Resource group: learn-74b587f7-3bdb-4c95-83f0-9a9dedac6ac6
+Location: westus
+Server name: bus-server652272
+
+Server=bus-server652272.database.windows.net,1433;Initial Catalog=bus-db;User Id=cloudadmin;Password=2Yc!qF2v*UmANW%k;Connection Timeout=30;
